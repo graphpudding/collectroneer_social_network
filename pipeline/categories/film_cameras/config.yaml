@@ -1,0 +1,11 @@
+# Category module config. See MODULE.md and docs/SPEC.md, appendix A.
+category: film_cameras
+title: Film cameras
+# Plausible production years; records outside go to review/.
+year_range: [1839, 2026]
+
+# Sources are filled in after recon (checkpoint 1): adapter params, licence, attribution, terms.
+sources: {}
+
+pilot:
+  makers: [Nikon, KMZ, Polaroid]

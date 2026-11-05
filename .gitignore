@@ -1,0 +1,72 @@
+# ── env / secrets ───────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── pipeline ────────────────────────────────────────────────
+# raw downloads and logs (recoverable by re-fetching)
+pipeline/categories/*/raw/
+pipeline/categories/*/logs/
+
+# ── db ──────────────────────────────────────────────────────
+# source dumps (large, kept outside git)
+db/*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.dump
+*.backup
+
+# ── python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# ── node / nuxt ─────────────────────────────────────────────
+node_modules/
+.nuxt/
+.output/
+.nitro/
+.cache/
+.data/
+*.tsbuildinfo
+.eslintcache
+coverage/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local uploads when R2 is not configured
+web/.data/
+
+# ── logs / temp ─────────────────────────────────────────────
+*.log
+logs/
+tmp/
+*.tmp
+
+# ── editors / OS ────────────────────────────────────────────
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# ── claude code (local settings only) ───────────────────────
+.claude/settings.local.json

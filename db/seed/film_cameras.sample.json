@@ -1,0 +1,334 @@
+{
+  "about": "Sample catalog records for app development, hand-assembled 2026-10-30 from Wikidata, Wikipedia and Wikimedia Commons. Not a pipeline output: IDs here are provisional and will be replaced by the ID registry.",
+  "records": [
+    {
+      "id": "film_cameras:000001",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "F2",
+      "maker": "Nikon",
+      "labels": {"en": "Nikon F2", "ru": "Nikon F2", "de": "Nikon F2", "fr": "Nikon F2"},
+      "aliases": [],
+      "year_start": 1971,
+      "year_end": 1980,
+      "country": "Japan",
+      "production_count": {
+        "value": 816000,
+        "basis": "stated",
+        "source": {
+          "url": "https://en.wikipedia.org/w/index.php?title=Nikon_F2&oldid=1374865441",
+          "quote": "the large amount of units manufactured, (816,000 units)"
+        }
+      },
+      "attributes": {
+        "camera_type": "slr",
+        "film_format": ["135"],
+        "frame_size": "24x36",
+        "lens_mount": "Nikon F",
+        "shutter_type": "focal_plane",
+        "shutter_speeds": {"fastest": "1/2000", "slowest": "10"},
+        "exposure_modes": ["manual"],
+        "focus": "manual",
+        "power": "2× SR44/S76 button cells (light meter only)"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Nikon_F2_DE1.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_author": "Runner1616",
+      "external_ids": {"wikidata": "Q788315", "enwiki": "Nikon F2", "commons_category": "Category:Nikon F2"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q788315",
+        "https://en.wikipedia.org/w/index.php?title=Nikon_F2&oldid=1374865441",
+        "https://commons.wikimedia.org/wiki/File:Nikon_F2_DE1.jpg"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata",
+        "year_start": "wikidata", "year_end": "wikidata", "country": "wikidata",
+        "production_count": "enwiki",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "wikidata",
+        "attributes.frame_size": "enwiki", "attributes.lens_mount": "wikidata",
+        "attributes.shutter_type": "wikidata", "attributes.shutter_speeds": "wikidata",
+        "attributes.exposure_modes": "enwiki", "attributes.focus": "wikidata",
+        "attributes.power": "enwiki",
+        "image_url": "wikidata", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC BY-SA 4.0",
+      "attribution": [
+        "Wikidata, CC0",
+        "Wikipedia contributors, \"Nikon F2\", English Wikipedia, CC BY-SA 4.0"
+      ],
+      "match_confidence": "high",
+      "notes": "Weight conflict: Wikidata 627 g, enwiki 840 g without lens (likely different finder configurations); weight not stored. Metering depends on the finder head (DE-1 has none), left empty."
+    },
+    {
+      "id": "film_cameras:000002",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "F-1",
+      "maker": "Canon",
+      "labels": {"en": "Canon F-1", "ru": "Canon F-1", "de": "Canon F-1", "fr": "Canon F-1", "ja": "キヤノン F-1"},
+      "aliases": ["F1"],
+      "year_start": 1971,
+      "year_end": 1981,
+      "country": "Japan",
+      "production_count": null,
+      "attributes": {
+        "camera_type": "slr",
+        "film_format": ["135"],
+        "frame_size": "24x36",
+        "lens_mount": "Canon FD",
+        "shutter_type": "focal_plane_metal",
+        "shutter_speeds": {"fastest": "1/2000", "slowest": "1"},
+        "exposure_modes": ["manual"],
+        "focus": "manual"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canon_F1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_author": "Pancolar",
+      "external_ids": {"wikidata": "Q63083", "enwiki": "Canon F-1", "commons_category": "Category:Canon F-1"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q63083",
+        "https://en.wikipedia.org/w/index.php?title=Canon_F-1&oldid=1313532111",
+        "https://commons.wikimedia.org/wiki/File:Canon_F1.jpg",
+        "https://global.canon/en/c-museum/product/film78.html"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata", "aliases": "commons",
+        "year_start": "wikidata", "year_end": "enwiki", "country": "enwiki",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "wikidata",
+        "attributes.frame_size": "enwiki", "attributes.lens_mount": "wikidata",
+        "attributes.shutter_type": "enwiki", "attributes.shutter_speeds": "enwiki",
+        "attributes.exposure_modes": "enwiki", "attributes.focus": "enwiki",
+        "image_url": "commons", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC BY-SA 4.0",
+      "attribution": [
+        "Wikidata, CC0",
+        "Wikipedia contributors, \"Canon F-1\", English Wikipedia, CC BY-SA 4.0"
+      ],
+      "match_confidence": "high",
+      "notes": "Wikidata P18 shows a Canon New F-1 (a later model), so the photo was taken from Commons Category:Canon F-1 instead. enwiki production 1971-1981 covers the F-1 including the 1976 F-1n."
+    },
+    {
+      "id": "film_cameras:000003",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "F-1N",
+      "maker": "Canon",
+      "labels": {"en": "Canon F-1N", "de": "Canon F-1n"},
+      "aliases": ["F1N", "F-1n", "F-1 (Later model)"],
+      "year_start": 1976,
+      "year_end": null,
+      "country": null,
+      "production_count": null,
+      "attributes": {
+        "camera_type": "slr",
+        "film_format": ["135"],
+        "lens_mount": "Canon FD"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Canon_F-1n_%284033608822%29.jpg",
+      "image_license": "CC BY 2.0",
+      "image_author": "E Magnuson",
+      "external_ids": {"wikidata": "Q65640347", "commons_category": "Category:Canon F-1n"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q65640347",
+        "https://commons.wikimedia.org/wiki/File:Canon_F-1n_(4033608822).jpg",
+        "https://global.canon/en/c-museum/product/film95.html"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata", "aliases": "wikidata",
+        "year_start": "wikidata",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "wikidata",
+        "attributes.lens_mount": "wikidata",
+        "image_url": "commons", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC0",
+      "attribution": ["Wikidata, CC0"],
+      "match_confidence": "high",
+      "notes": "Wikidata P18 shows a Canon New F-1, replaced with a Commons photo of the F-1n. End year not stated separately for the F-1n."
+    },
+    {
+      "id": "film_cameras:000004",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "M5",
+      "maker": "Leica",
+      "labels": {"en": "Leica M5", "ru": "Leica M5", "de": "Leica M5"},
+      "aliases": [],
+      "year_start": 1971,
+      "year_end": 1975,
+      "country": "Germany",
+      "production_count": {
+        "value": 33900,
+        "basis": "stated",
+        "source": {
+          "url": "https://en.wikipedia.org/w/index.php?title=Leica_M5&oldid=1373756115",
+          "quote": "production was halted in 1975 after 33,900 units (from 1287001 to last serial number 1384000; 10750 chrome and 23150 black chrome bodies)"
+        }
+      },
+      "attributes": {
+        "camera_type": "rangefinder",
+        "film_format": ["135"],
+        "frame_size": "24x36",
+        "lens_mount": "Leica M",
+        "shutter_type": "focal_plane_cloth",
+        "shutter_speeds": {"fastest": "1/1000", "slowest": "1/2", "bulb": true},
+        "metering": "ttl",
+        "exposure_modes": ["manual"],
+        "focus": "manual",
+        "power": "625 mercury cell",
+        "serial_ranges": [
+          {
+            "from": 1287001,
+            "to": 1384000,
+            "source": "https://en.wikipedia.org/w/index.php?title=Leica_M5&oldid=1373756115"
+          }
+        ]
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Leica_M5_50mm_f2_Summicron.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_author": "Mike",
+      "external_ids": {"wikidata": "Q313963", "enwiki": "Leica M5", "commons_category": "Leica M5"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q313963",
+        "https://en.wikipedia.org/w/index.php?title=Leica_M5&oldid=1373756115",
+        "https://commons.wikimedia.org/wiki/File:Leica_M5_50mm_f2_Summicron.jpg"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata",
+        "year_start": "wikidata", "year_end": "wikidata", "country": "enwiki",
+        "production_count": "enwiki",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "wikidata",
+        "attributes.frame_size": "enwiki", "attributes.lens_mount": "enwiki",
+        "attributes.shutter_type": "enwiki", "attributes.shutter_speeds": "enwiki",
+        "attributes.metering": "enwiki", "attributes.exposure_modes": "enwiki",
+        "attributes.focus": "enwiki", "attributes.power": "enwiki",
+        "attributes.serial_ranges": "enwiki",
+        "image_url": "wikidata", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC BY-SA 4.0",
+      "attribution": [
+        "Wikidata, CC0",
+        "Wikipedia contributors, \"Leica M5\", English Wikipedia, CC BY-SA 4.0"
+      ],
+      "match_confidence": "high",
+      "notes": "Production conflict: Wikidata P1092 33,500, enwiki 33,900 (taken, has a quote with serial range and finish split). enwiki also mentions a 1975 50-year jubilee edition of 1,750 units, a possible variant record."
+    },
+    {
+      "id": "film_cameras:000005",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "11",
+      "maker": "Zenit",
+      "labels": {"en": "Zenit 11", "ru": "Зенит-11", "uk": "Зенит-11"},
+      "aliases": ["Zenit-11"],
+      "year_start": 1982,
+      "year_end": 1992,
+      "country": "USSR",
+      "production_count": {
+        "value": 1481022,
+        "basis": "stated",
+        "source": {
+          "url": "https://ru.wikipedia.org/w/index.php?title=%D0%97%D0%B5%D0%BD%D0%B8%D1%82-11&oldid=149879933",
+          "quote": "Всего фотоаппаратов «Зенит-11» было выпущено 1 481 022 экземпляров"
+        }
+      },
+      "attributes": {
+        "camera_type": "slr",
+        "film_format": ["135"],
+        "frame_size": "24x36",
+        "lens_mount": "M42",
+        "shutter_type": "focal_plane_cloth",
+        "shutter_speeds": {"fastest": "1/500", "slowest": "1/30", "bulb": true},
+        "metering": "built_in",
+        "exposure_modes": ["manual"],
+        "focus": "manual",
+        "manufacturer": ["KMZ"]
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Camera_Zenit_11.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_author": "Dmitry Makeev",
+      "external_ids": {"wikidata": "Q4191342", "ruwiki": "Зенит-11", "commons_category": "Category:Zenit 11"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q4191342",
+        "https://ru.wikipedia.org/w/index.php?title=%D0%97%D0%B5%D0%BD%D0%B8%D1%82-11&oldid=149879933",
+        "https://commons.wikimedia.org/wiki/File:Camera_Zenit_11.jpg"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata", "aliases": "ruwiki",
+        "year_start": "ruwiki", "year_end": "ruwiki", "country": "ruwiki",
+        "production_count": "ruwiki",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "ruwiki",
+        "attributes.frame_size": "ruwiki", "attributes.lens_mount": "ruwiki",
+        "attributes.shutter_type": "ruwiki", "attributes.shutter_speeds": "ruwiki",
+        "attributes.metering": "ruwiki", "attributes.exposure_modes": "ruwiki",
+        "attributes.focus": "ruwiki", "attributes.manufacturer": "wikidata",
+        "image_url": "wikidata", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC BY-SA 4.0",
+      "attribution": [
+        "Wikidata, CC0",
+        "Участники Википедии, «Зенит-11», Русская Википедия, CC BY-SA 4.0"
+      ],
+      "match_confidence": "high",
+      "notes": "Start year conflict inside ruwiki: infobox 1982-1992 (taken), body text says production from 1981. ruwiki calls it a Soviet and Russian camera; production continued past 1991."
+    },
+    {
+      "id": "film_cameras:000006",
+      "status": "active",
+      "category": "film_cameras",
+      "name": "E",
+      "maker": "Zenit",
+      "labels": {"en": "Zenit E", "ru": "Зенит-Е", "uk": "Зенит-Е", "de": "Zenit-E"},
+      "aliases": ["Zenit-E"],
+      "year_start": 1965,
+      "year_end": 1986,
+      "country": "USSR",
+      "production_count": null,
+      "attributes": {
+        "camera_type": "slr",
+        "film_format": ["135"],
+        "frame_size": "24x36",
+        "lens_mount": "M42",
+        "shutter_type": "focal_plane_cloth",
+        "metering": "built_in",
+        "exposure_modes": ["manual"],
+        "focus": "manual",
+        "manufacturer": ["KMZ", "BelOMA"]
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2024_Zenit-E_%282%29.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_author": "Jacek Halicki",
+      "external_ids": {"wikidata": "Q4191386", "ruwiki": "Зенит-Е", "dewiki": "Zenit-E", "commons_category": "Category:Zenit E"},
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q4191386",
+        "https://ru.wikipedia.org/w/index.php?title=%D0%97%D0%B5%D0%BD%D0%B8%D1%82-%D0%95&oldid=155495481",
+        "https://commons.wikimedia.org/wiki/File:2024_Zenit-E_(2).jpg"
+      ],
+      "field_sources": {
+        "name": "wikidata", "maker": "wikidata", "labels": "wikidata", "aliases": "wikidata",
+        "year_start": "ruwiki", "year_end": "ruwiki", "country": "wikidata",
+        "attributes.camera_type": "wikidata", "attributes.film_format": "ruwiki",
+        "attributes.frame_size": "ruwiki", "attributes.lens_mount": "ruwiki",
+        "attributes.shutter_type": "ruwiki", "attributes.metering": "ruwiki",
+        "attributes.exposure_modes": "ruwiki", "attributes.focus": "ruwiki",
+        "attributes.manufacturer": "wikidata",
+        "image_url": "wikidata", "image_license": "commons", "image_author": "commons"
+      },
+      "data_license": "CC BY-SA 4.0",
+      "attribution": [
+        "Wikidata, CC0",
+        "Участники Википедии, «Зенит-Е», Русская Википедия, CC BY-SA 4.0"
+      ],
+      "match_confidence": "high",
+      "notes": "Lens mount: M42 per ruwiki, M39 thread before 1967 (possible early variant). Country from the Wikidata description \"soviet 35mm SLR camera\". Shutter speeds and production count not in the fetched infobox, left empty."
+    }
+  ],
+  "relations": [
+    {
+      "from_id": "film_cameras:000003",
+      "relation": "variant_of",
+      "to_id": "film_cameras:000002",
+      "source": "wikidata P155 (follows) + module rule: renamed model number is a variant"
+    }
+  ]
+}

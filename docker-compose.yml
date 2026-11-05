@@ -1,0 +1,37 @@
+# Local development. Ports are bound to 127.0.0.1 only; Caddy on the host fronts production.
+name: collectioneer
+
+services:
+  db:
+    image: postgres:18
+    environment:
+      POSTGRES_DB: collectioneer
+      POSTGRES_USER: collectioneer
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-collectioneer}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U collectioneer -d collectioneer"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+  # Schema migrations: `docker compose run --rm dbmate up` (also: status, rollback, new <name>).
+  dbmate:
+    image: ghcr.io/amacneil/dbmate:2.36.0
+    profiles: ["tools"]
+    user: "${HOST_UID:-1000}:${HOST_GID:-1000}"  # so db/schema.sql is owned by you, not root
+    environment:
+      DATABASE_URL: postgres://collectioneer:${POSTGRES_PASSWORD:-collectioneer}@db:5432/collectioneer?sslmode=disable
+      DBMATE_MIGRATIONS_DIR: /db/migrations
+      DBMATE_SCHEMA_FILE: /db/schema.sql
+    volumes:
+      - ./db:/db
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:

@@ -1,0 +1,476 @@
+id,name,field,source_text
+film_cameras:000011,Canon EOS Rebel Ti,shutter_type,"electronic, 30s to 1/2000 in 1/2 stop, + blub, X sync 1/90s"
+film_cameras:000020,Canon IXUS,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.5 (f/4.5 at 1/35 sec.) – EV 17 (f/16 at 1/500 sec.) at 24mm, and EV 11.5 (f/6.2 at 1/70 sec.) – EV 19 (f/32 at 1/500 sec.) at 48mm. In slow-speed sync and flash-off mode: EV 3.5 (f/4.5 at 2 sec.) – EV 17 (f/16 at 1/500 sec.) at 24mm, and EV 4.5 (f/6.2 at 2 sec.) – EV 19 (f/32 at 1/500 sec.) at 48mm. Built-in electronic self-timer. Remote-control shutter release enabled."
+film_cameras:000021,Canon IXUS II,shutter_type,"Electromagnetic programmed shutter/aperture. Exposure control range (ISO 100): Auto/flash ON mode: EV 10.1 (1/60, f/4.2) – EV 18 (1/800, f/18) at 24mm EV 11.5 (1/90, f/5.6) – EV 20 (1/900, f/34) at 46mm. Slow speed synch/flash off mode: EV 3.1 (2sec., f/4.2) – EV 18(1/800, f/18) at 24mm EV 4 (2sec., f/5.6) – EV 20 (1/900,f/34) at 46mm. Camera shake warning: Orange LED blinks in flash off mode. Built-in electronically controlled self-timer with 10-second delay, can be canceled halfway. Remote-controller (optional) and a receiver built in the camera release the shutter in 2 sec (up to 5m)."
+film_cameras:000022,Canon IXUS III,shutter_type,Electromagnetically controlled programmed shutter/aperture
+film_cameras:000022,Canon IXUS III,focus,Passive 3-point AIAF
+film_cameras:000023,Canon IXUS L-1,shutter_type,Electromagnetic programmed shutter and aperture. 2 sec. – 1/800 sec. Built-in self-timer. Remote control enabled.
+film_cameras:000026,Canon IXUS M-1,shutter_type,"Electromagnetic programmed shutter/aperture. ;Auto/Flash ON: EV10.4 (1/60, f/4.8) to EV17 (1/650, f/14), Flash OFF/Slow Synchro: EV5.5 (1/2, f/4.8) to EV17 (1/650, f/14) Slowest Shutter Speed: 1/2 second Self-Timer: Electronically controlled with 10-second delay"
+film_cameras:000027,Canon IXUS X-1,shutter_type,"Electromagnetic programmed shutter/aperture. Exposure control range (ISO100): Flash auto / flash on mode: 1/650, f/14 – 1/60, f/4.8. Flash off / slow sync mode: 1/650, f/14 – 1/2, f/4.8. Self-timer: Operation indicated by blinking red-eye reduction lamp, and countdown on the LCD panel."
+film_cameras:000028,Canon IXUS Z50,shutter_type,Combination aperture and program electromagnetically driven shutter
+film_cameras:000031,Canon IXUS Z90,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 10.5 (f/5.6 at 1/45 sec.) – EV 17 (f/14.2 at 1/650 sec.) at 22.5mm, and EV 13.5 (f/8.9 at 1/150 sec.) – EV 17 (f/17.5 at 1/430 sec.) at 90mm. In slow-speed sync and flash-off mode: EV 3 (f/5.6 at 4 sec.) – EV 17 (f/14.2 at 1/650 sec.) at 22.5mm, and EV 4.3 (f/8.9 at 4 sec.) – EV 17 (f/17.5 at 1/430 sec.) at 90mm. Built-in electronic self-timer. Remote-control shutter release enabled."
+film_cameras:000034,Canon MC,shutter_type,Electromagnetic programmed shutter and aperture. EV 8 (f/4.5 at 1/20 sec.) – 15 (f/9.5 at 1/350 sec.).No self-timer.
+film_cameras:000039,Canon Photura/Epoca/Autoboy Jet,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.75 (f/2.8 at 1/100 sec.) – EV 15 (f/11 at 1/250 sec.) at 35mm, and EV 12.25 (f/6.6 at 1/100 sec.) – EV 17.5 (f/27 at 1/250 sec.) at 105mm. In slow-speed sync mode and flash-off mode: EV 2 (f/2.8 at 2 sec.) – EV 15 (f/11 at 1/250 sec.) at 35mm, and EV 4.5 (f/6.6 at 2 sec.) – EV 17.5 (f/27 at 1/250 sec.) at 105mm. Built-in electronic self-timer."
+film_cameras:000040,Kodak Brownie 44A & 44B,shutter_type,Single speed ~1/40 sec
+film_cameras:000042,Canon Photura 135 Caption,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 10 (f/3.2 at 1/100 sec.) – EV 16 (f/13.2 at 1/350 sec.) at 38mm, and EV 12.6 (f/8 at 1/100 sec.) – EV 18.6 (f/34 at 1/350 sec.) at 135mm. In slow-speed sync mode and flash-off mode: EV 2.35 (f/3.2 at 2 sec.) – EV 16 (f/13.2 at 1/350 sec.) at 38mm, and EV 5 (f/8 at 2 sec.) – EV 18.6 (f/34 at 1/350 sec.) at 135mm. Built-in electronic self-timer. Remote-control switch is provided for CAPTION mode only."
+film_cameras:000051,Ernemann Heag IV,film_format,various: 6.5x9; 9x12; 9x18
+film_cameras:000051,Ernemann Heag IV,focus,by sliding bed
+film_cameras:000053,Jazz 207,shutter_type,Mechanical
+film_cameras:000054,Ansco Viking 6.3,focus,-
+film_cameras:000058,Conley Kewpie No. 2A,exposure_modes,aperture dial
+film_cameras:000069,Zeiss Ikon Bobette II,shutter_type,"Cronos everset shutter (though not engraved with the name); 1/5 - 1/100 second, plus 'B' and 'T'. Cable release socket. No delayed action."
+film_cameras:000078,Kodak Brownie Auto 27,shutter_type,Fixed 1/80th or 1/40th
+film_cameras:000099,Canon Snappy 20,shutter_type,Electronically-controlled programmed shutter and aperture. EV 9.3 – 15. Controllable shutter speeds from 1/20 sec. to 1/500 sec.
+film_cameras:000102,Canon Snappy 50,shutter_type,Electronically-controlled programmed shutter and aperture. EV 8.6 (f/3.5 at 1/30 sec.) – 15 (f/9.5 at 1/350 sec.). Controllable shutter speeds from 1/20 sec. to 1/500 sec.
+film_cameras:000105,Canon Snappy LX,shutter_type,"Electronic three-speed (1/45 sec., 1/60 sec., 1/250 sec.) shutter and aperture. Built-in electronic self-timer (Two consecutive self-timer shots can be taken by pressing the self-timer button twice.)."
+film_cameras:000108,Canon Snappy LXII,shutter_type,"Auto, Program-type electromagnetic shutter with aperture control, Speeds: 1/45, 1/100, 1/125 and 1/180"
+film_cameras:000112,Canon Snappy LX Date,shutter_type,"Electronic three-speed (1/45 sec., 1/60 sec., 1/250 sec.) shutter and aperture. Built-in electronic self-timer (Two consecutive self-timer shots can be taken by pressing the self-timer button twice.)."
+film_cameras:000113,Canon Snappy QT,shutter_type,"Programmed Lens Shutter; Flash OFF mode: 1/60,f/6.2 to 1/250,f/8, Auto mode: 1/90,f/6.2 to 1/250,f/8 Self-timer: Electronically controlled, 10-second time delay"
+film_cameras:000114,Canon Snappy S,shutter_type,Electromagnetic programmed shutter and aperture. EV 10 (f/4.5 at 1/40 sec.) – 15 (f/11 at 1/250 sec.)
+film_cameras:000115,Canon Snappy V,shutter_type,"Electronic three-speed (1/45 sec., 1/60 sec., 1/250 sec.) shutter. Built-in electronic self-timer."
+film_cameras:000117,Canon Sprint/Jet (AF35J)/Autoboy LITE,shutter_type,Electromagnetic programmed shutter and aperture. EV 9 (f/3.5 at 1/40 sec.) – 15 (f/11 at 1/250 sec.). No self-timer.
+film_cameras:000121,Canon Sure Shot 105 Zoom,shutter_type,"Electromagnetic programmed shutter and aperture. In flash auto mode and flash-on mode: EV 9.5 (f/3.8 at 1/40 sec.) – EV 17 (f/15 at 1/550 sec.) at 38mm, and EV 13.5 (f/9.9 at 1/100 sec.) – EV 19 (f/32 at 1/450 sec.) at 105mm.In flash-off mode: EV 3 (f/3.8 at 2 sec.) – EV 17 (f/15 at 1/550 sec.) at 38mm, and EV 5.7 (f/9.9 at 1/100 sec.) – EV 19 (f/32 at 1/450 sec.) at 105mm.With self-timer: EV 6 (f/3.8 at 1/3 sec.) – EV 17 (f/15 at 1/550 sec.) at 38mm, and EV 8.7 (f/9.9 at 1/3 sec.) – EV 19 (f/32 at 1/450 sec.) at 105mm.Built-in electronic self-timer."
+film_cameras:000124,Canon Sure Shot 60 Zoom,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 10 (f/4.5 at 1/40 sec.) – EV 17 (f/16 at 1/500 sec.) at 38mm, and EV 11.5 (f/6.7 at 1/60 sec.) – EV 17 (f/18 at 1/400 sec.) at 60mm. In flash-off mode: EV 3.4 (f/4.5 at 2 sec.) – EV 17 (f/16 at 1/500 sec.) at 38mm, and EV 4.7 (f/6.7 at 2 sec.) – EV 17 (f/18 at 1/400 sec.) at 60mm. With slow-speed sync at both 38mm and 60mm: EV 3.4 – EV 6 (f/4.5 at 1/40 sec.)."
+film_cameras:000127,Canon Sure Shot 70 Zoom,shutter_type,electronic
+film_cameras:000129,Canon Sure Shot 80 Tele,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9 (f/3.7 at 1/38 sec.) – EV 17 (f/16 at 1/500 sec.) at 38mm, and EV 12 (f/7.3 at 1/80 sec.) – EV 17 (f/18 at 1/400 sec.) at 80mm. In flash-off mode: EV 3.4 (f/3.7 at 1 sec.) – EV 17 (f/18 at 1/400 sec.) at 38mm, and EV 5.7 (f/7.3 at 1/80 sec.) – EV 17 (f/18 at 1/400 sec.) at 80mm."
+film_cameras:000135,Canon Sure Shot A-1,shutter_type,Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.5 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.). In flash-off mode: EV 3 (f/3.5 at 2 sec.) – EV 17 (f/22 at 1/250 sec.). Built-in electronic self-timer.
+film_cameras:000140,Canon Sure Shot Classic 120,shutter_type,"Electromagnetic programmed shutter/aperture. RT (Real-Time) release. Exposure control range (ISO 100): Flash auto/ON mode: 1/770, f/15.5 – 1/38, f/4.5 at 38mm 1/420, f/21 – 1/120, f/10.9 at 120mm. Flash off/slow sync mode: 1/770, f/15.5 – 2sec., f/4.5 at 38mm 1/420, f/21 – 2sec., f/10.9 at 120mm. Night scene mode: 4sec. (slowest speed). Orange lamp blinks for camera shake warning (flash off mode). Built-in electronically controlled self-timer."
+film_cameras:000145,Canon Sure Shot Del Sol,shutter_type,Electromagnetic programmed shutter and aperture. In flash auto mode: EV 9.5 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.). In flash-on mode: EV 7 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.) and EV 3 (f/3.5 at 2 sec.) – EV 7 (f/22 at 1/250 sec.). In flash-off mode: EV 3 (f/3.5 at 2 sec.) – EV 17 (f/22 at 1/250 sec.). Built-in electronic self-timer.
+film_cameras:000147,Canon Sure Shot M,shutter_type,Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.5 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.). In flash-off mode: EV 3 (f/3.5 at 2 sec.) – below EV 7 (f/3.5 at 1/10 sec.). Built-in electronic self-timer.
+film_cameras:000152,Canon Sure Shot Max,shutter_type,Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.5 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.). In flash-off mode: EV 7 (f/3.5 at 1/8 sec.) – EV 17 (f/22 at 1/250 sec.). Built-in electronic self-timer.
+film_cameras:000157,Canon Sure Shot Mega Zoom 105,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9 (f/3.5 at 1/45 sec.) – EV 19 (f/22 at 1/1000 sec.) at 35mm, and EV 13 (f/8 at 1/125 sec.) – EV 19 (f/32 at 1/500 sec.) at 105mm. In slow-speed sync and flash-off mode: EV 3 (f/3.5 at 1/5 sec.) – EV 19 (f/22 at 1/1000 sec.) at 35mm, and EV 5 (f/8 at 2 sec.) – EV 19 (f/32 at 1/500 sec.) at 105mm. Built-in electronic self-timer."
+film_cameras:000159,Canon Sure Shot Mega Zoom 76,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.25 (f/3.8 at 1/45 sec.) – EV 18 (f/19 at 1/750 sec.) at 38mm, and EV 12 (f/7.2 at 1/90 sec.) – EV 18 (f/22 at 1/500 sec.) at 76mm. In slow-speed sync and flash-off mode: EV 4 (f/3.8 at 1 sec.) – EV 18 (f/19 at 1/750 sec.) at 38mm, and EV 6 (f/7.2 at 1 sec.) – EV 18 (f/22 at 1/500 sec.) at 76mm. Built-in electronic self-timer."
+film_cameras:000162,Canon Sure Shot Owl,shutter_type,"Electromagnetic four-speed programmed shutter and aperture. With flash off: No higher than EV 10.5 (f/4.5 at 1/70 sec.). At ISO 100: EV 10.5 – EV 12 (f/4.5 at 1/100 sec.), EV 12 – 14 (f/6.6 at 1/125 sec.), EV 14 – EV 16 (f/11 at 1/180 sec.). Built-in electronic self-timer (with blinking red-eye reduction lamp), cancelable midway."
+film_cameras:000165,Canon Sure Shot Owl,shutter_type,"Program-type electromagnetic 4-speed; serves as aperture diaphragm; Auto/Flash ON mode:(ISO 100) 1/100,f/4.5 to 1/180,f/11, Flash OFF mode: 1/45,f/4.5 to 1/180,f/11 Self timer: Electronically controlled with 10-second delay"
+film_cameras:000166,Agfa Isoly,lens,Achromat 1:3.9 ??mm
+film_cameras:000166,Agfa Isoly,shutter_type,"Everset type, speeds 1/30 and 1/100 sec."
+film_cameras:000167,Bolta Werk GmbH Photavit 36,lens,interchangeable
+film_cameras:000167,Bolta Werk GmbH Photavit 36,exposure_modes,-
+film_cameras:000178,Canon Sure Shot Tele Max,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.5 (f/3.5 at 1/60 sec.) – EV 17 (f/22 at 1/250 sec.) at 38mm, and EV 12 (f/6 at 1/100 sec.) – EV 17 (f/24 at 1/200 sec.) at 70mm. In flash-off mode: EV 7 (f/3.5 at 1/8 sec.) – EV 17 (f/22 at 1/250 sec.) at 38mm, and EV 8.5 (f/6 at 1/8 sec.) – EV 17 (f/24 at 1/200 sec.) at 70mm. Built-in electronic self-timer."
+film_cameras:000182,Canon Sure Shot Z70W (Caption),shutter_type,"Electromagnetic programmed shutter and aperture. Metering range (ISO 100): Auto and Flash ON modes: EV9 (1/30, f/5.6) – EV17.5 (1/590, f/16) at 28mm, EV12 (1/60, f/7.8) – EV20 (1/590, f/32) at 70mm. Slow-sync and Flash OFF modes: EV4 (2 sec., f/5.6) – EV17.5 (1/590, f/16) at 28mm, EV5 (2 sec., f/7.8) – EV20 (1/590, f/32) at 70mm. Night mode uses 2 sec. (the slowest speed). Built-in electronic self-timer."
+film_cameras:000184,Canon Sure Shot Zoom Max,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.25 (f/3.8 at 1/45 sec.) – EV 17 (f/21 at 1/300 sec.) at 38mm, and EV 12.3 (f/7.2 at 1/125 sec.) – EV 17 (f/25 at 1/200 sec.) at 76mm. In slow-speed sync and flash-off mode: EV 3 (f/3.8 at 2 sec.) – EV 17 (f/21 at 1/300 sec.) at 38mm, and EV 5 (f/7.2 at 2 sec.) – EV 17 (f/25 at 1/200 sec.) at 76mm. Built-in electronic self-timer."
+film_cameras:000185,Canon Sure Shot Zoom XL,shutter_type,"Electronic programmed aperture and motor-driven shutter. In auto mode and flash-on mode: EV 7 (f/3.6 at 1/40 sec.) – EV 17 (f/22 at 1/250 sec.) at 39mm, and EV 12 (f/7.3 at 1/80 sec.) – EV 19 (f/45 at 1/250 sec.) at 85mm. In slow-speed sync mode and flash-off mode: EV 2.5 (f/3.6 at 2 sec.) – EV 17 (f/22 at 1/250 sec.) at 39mm, and EV 4.5 (f/7.3 at 2 sec.) – EV 19 (f/45 at 1/250 sec.) at 85mm. Built-in electronic self-timer."
+film_cameras:000221,Mamiya U,shutter_type,electronic
+film_cameras:000221,Mamiya U,exposure_modes,Automatic
+film_cameras:000222,Industrias Sintéticas Abril Captaflex,shutter_type,speeds instant and B
+film_cameras:000274,Taisei Kōki Westomat 35,shutter_type,1/25-1/200 + B
+film_cameras:000288,Fujifilm DL-400 Tele Super Date,exposure_modes,Automatic with ISO 50—1600 DX films
+film_cameras:000294,Cobra Digital Cobra Crystal,shutter_type,Mechanical
+film_cameras:004544,BelOMO Chajka-II,shutter_type,1/30-1/250s + B
+film_cameras:000306,Tougodo Toyoca 35-S,shutter_type,speeds 1/25 to 1/300 sec and B.
+film_cameras:000346,GOMZ Fotokor-1,shutter_type,"GOMZ ( ГОМЗ); speeds: 1/25, 1/50, 1/100 + B & T (К & Д = K&D) ,"
+film_cameras:000348,Chinon Auto GLX,shutter_type,1/90-1/410s.
+film_cameras:000355,Chinon Bellami,shutter_type,"SEIKO Program EE Shutter, Speeds from 1/8 to 1/1000 sec."
+film_cameras:000363,Agfa Autostar pocket,shutter_type,single speed
+film_cameras:000377,Voigtländer Vito Automatic F and R,lens,Unknown
+film_cameras:000377,Voigtländer Vito Automatic F and R,shutter_type,Unknown
+film_cameras:000396,Ricoh FF-9s,shutter_type,1/4 - 1/400 sec.
+film_cameras:000419,Agfa Box B-2,shutter_type,"simple spring, w/ metallic sliding aperture disc, about 1/60, +B, installed on the front cover of the camera and therefore is located in front of the lens"
+film_cameras:000428,Nikon F-601 (N6006),metering,"Five-segment matrix, center-weighted and spot"
+film_cameras:000430,Fujifilm Klasse S,shutter_type,"Electronic shutter Program (Program AE, AE aperture priority)"
+film_cameras:000432,Chinon 35FA II,shutter_type,"Programmed electronic shutter, electronic self timer."
+film_cameras:000434,Samsung ECX 1,shutter_type,"electronic AE, 1/3 to 1/400s with Bulb 1 to 60sec."
+film_cameras:000437,Fujifilm Klasse,shutter_type,"Electronic shutter Program (Program AE, AE aperture priority)"
+film_cameras:000438,Exa 1,shutter_type,"Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited; speeds: 1/30-1/175 +B"
+film_cameras:000445,Kyocera Socius,shutter_type,Programmed electronic shutter.
+film_cameras:000458,Nikon F70 (N70),shutter_type,"electronic, 1/4000 to 30 sec in 1/3 EV and electromagnetic B setting."
+film_cameras:000461,Fujifilm Klasse W,shutter_type,"Electronic shutter Program (Program AE, AE aperture priority)"
+film_cameras:000464,Agfa Billy I Luxus,focus,2 – 5 m.
+film_cameras:000466,Fujifilm Natura,metering,28mm; 8 to 17EV (100 ISO);56mm; 11 to 17EV (100 ISO); 28mm; 8 to 17EV (1600 ISO) 56mm; 11 to 19EV (1600 ISO)
+film_cameras:000474,Zeiss Ikon Cocarette,lens,"variants include Novar, Meyer, Periskop, Dominar, Frontar, or Tessar"
+film_cameras:005068,Coronet Ajax (Tiranty),shutter_type,3 speeds
+film_cameras:005068,Coronet Ajax (Tiranty),focus,front focusing
+film_cameras:000503,Coronet De Luxe (Tiranty),lens,"offered with various lenses, such as:"
+film_cameras:000521,Agfa Box 50,shutter_type,simple one-speed shutter
+film_cameras:000531,Ricoh LX-22,shutter_type,"mechanical, 1/125 sec. (fixed-speed)"
+film_cameras:000531,Ricoh LX-22,metering,fixed exposure
+film_cameras:000545,Halina AF810,metering,fully automatic
+film_cameras:000591,Canon EOS 30V,exposure_modes,ISO 6-6400 (Set automatically with DX-coded film at ISO 25- 5000.)
+film_cameras:000601,Agfa Futura Af zoom,shutter_type,program-controlled electronic shutter with speeds 1.5 sec. - 1/250 sec.
+film_cameras:000609,Canon Prima Super 28V,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9 (f/5.6 at 1/30 sec.) – EV 17.5 (f/16 at 1/590 sec.) at 28mm, and EV 12 (f/7.8 at 1/60 sec.) – EV 20 (f/32 at 1/590 sec.) at 70mm. In slow-speed sync and flash-off mode: EV 4 (f/5.6 at 2 sec.) – EV 17.5 (f/16 at 1/590 sec.) at 28mm, and EV 5 (f/7.8 at 2 sec.) – EV 20 (f/32 at 1/590 sec.) at 70mm. In night mode, max. 2 sec. Built-in electronic self-timer."
+film_cameras:000610,Canon Sure Shot Ace,shutter_type,Electromagnetic programmed shutter and aperture. EV 9.5 (f/3.5 at 1/40 sec.) – EV 17 (f/32 at 1/125 sec.) Built-in electronic self-timer. Built-in wireless remote control (using infrared beam for 2-sec. delay).
+film_cameras:000632,Officine Galileo Condoretta,shutter_type,Aplon
+film_cameras:000646,Minolta Maxxum HTsi,metering,"14 segments, spot (2.7%)."
+film_cameras:000666,Agfa Isola,shutter_type,"Isola: Singlo; Isola II: Singlo II, B, 1/30, 1/100"
+film_cameras:005083,TDC Stereo Colorist,shutter_type,Velio
+film_cameras:005083,TDC Stereo Colorist,metering,manual
+film_cameras:000717,Cosina CX-1,shutter_type,"Programmed electronic shutter, 2–1/500 s."
+film_cameras:000733,Agfa Karat,lens,Igestar 6.3/50 (three elements)
+film_cameras:000733,Agfa Karat,shutter_type,Agfa Automat B 25 50 100 (self cocking)
+film_cameras:000738,Kodak Six-16 and Six-20,shutter_type,No. 1 Diodak (Six-16)
+film_cameras:000743,King Regula Insta-King,shutter_type,"Single speed, probably in the 1/30-50th range"
+film_cameras:000756,Canon Dial Rapid,shutter_type,Seiko-sha 1/30 to 1/500 sec. and B. Built-in self-timer (rotating dial). X-sync flash. AG-1 Bulb-dedicated flash gun provided on camera top.
+film_cameras:000764,Dacora Dacora-Matic 4D,focus,"Focus selectable by one of the four shutter release buttons, 1.5m to infinity"
+film_cameras:000765,Dacora Digna,focus,turnable front lens element
+film_cameras:000768,Vivitar PS55s,shutter_speeds,unknown
+film_cameras:005096,BelOMO Elikon 4,shutter_type,Single speed 1/125
+film_cameras:000805,Vivitar 3Dcam,shutter_speeds,two speed
+film_cameras:000820,Ebony de Luxe IIS,shutter_type,speeds I and B.
+film_cameras:000827,KW Reflex-Box,shutter_type,"speeds 1/25, 1/50 and 1/100 sec. plus 'B', and 'T' (set by pressing the B/T/M control down)"
+film_cameras:000839,Samoca Winderflash EE,year_start,1980 approx
+film_cameras:000839,Samoca Winderflash EE,shutter_type,-.
+film_cameras:000846,Royer Savoy,shutter_type,"Royer, 1s-1/300s + B"
+film_cameras:000879,Konica MT-11,shutter_type,1/4–1/500 s.
+film_cameras:000882,Detrola Model E,year_start,end 1930s
+film_cameras:000891,Argus C4M Electro,year_start,ca 1980
+film_cameras:000891,Argus C4M Electro,shutter_type,-.
+film_cameras:000892,Vivitar IC 111,shutter_type,fixed
+film_cameras:000909,Seymour Products Co Dick Tracy,shutter_speeds,unknown
+film_cameras:000930,Miranda Sensoret,metering,Programmed with flashmatic control and +/- 1 stop EV adjustment
+film_cameras:000937,Canon Sure Shot Z155,shutter_type,Electromagnetically controlled programmed shutter/aperture
+film_cameras:000942,Contax T2,shutter_type,Electromagnetic lens shutter
+film_cameras:000961,Fujifilm DL-400 Tele,metering,"EV 7~16 (wide), EV 8.9~17.9 (tele) with ISO100 film."
+film_cameras:000963,Fujifilm DL-250 Tele,shutter_type,"Programmed electronic, 1/45–1/200 s, self-timer."
+film_cameras:000992,Samoca 35 LD,year_start,early 1960s
+film_cameras:000995,Minolta Riva Twin 28,metering,"EV 6~16,2 (wide), EV 7~17,2 (normal) with ISO100 film."
+film_cameras:001039,Canon Sure Shot Z135,shutter_type,"Electromagnetic programmed shutter/aperture. Metering range (ISO 100): Auto/Flash ON modes: Wide;EV 9.6 (1/60,f/3.6) – EV 18 (1/1200,f/15) Tele;EV 14 (1/200,f/8.9) – EV 21 (1/1200,f/36) Flash OFF/Slow-sync modes: Wide;EV 2.7 (2sec.,f/3.6) – EV 18 (1/1200,f/15) Tele;EV 5.3 (2sec.,f/8.9) – EV 21 (1/1200,f/36) Night mode: Wide;EV 1.7 (4sec.,f/3.6) – EV 18 (1/1200,f/15) Tele;EV 4.2 (4sec.,f/8.9) – EV21 (1/1200,f/36)"
+film_cameras:001040,Canon New Sure Shot,shutter_type,Electromagnetic programmed shutter and aperture. For 28mm: EV 9.5 (f/4 at 1/45 sec.) – EV 17 (f/22 at 1/250 sec.) For 48mm: EV 11 (f/6.5 at 1/45 sec.) – EV 17 (f/27 at 1/180 sec.) at ISO 100. Built-in electronic self-timer.
+film_cameras:001043,Chinon Auto GLX Tele Date,shutter_type,"Mechanical, fixed to 1/90s."
+film_cameras:001046,Canon Snappy AF,shutter_type,Electronic programmed shutter and aperture. Built-in electronic self-timer.
+film_cameras:001046,Canon Snappy AF,metering,EV 10 (f/4.5 at 1/40 sec.) - EV 17 (f/32 at 1/125 sec.). Film speed range: ISO 50 - 1600 (with DX code).
+film_cameras:001049,Minolta AF-S,shutter_type,1/8–1/625 s.
+film_cameras:001051,Ricoh TF-500,shutter_type,"Programmed electronic shutter, 1–1/500 s."
+film_cameras:001052,Ricoh TF-200,shutter_type,"Programmed electronic shutter, 1/6–1/1500 s."
+film_cameras:001056,Konica Kanpai,shutter_type,1–1/200 s. Electronic self-timer.
+film_cameras:001057,Yashica DF-10,shutter_type,"1/125 (35 mm), 1/60 (55 mm)."
+film_cameras:001058,Yashica DF-100 AF,shutter_type,"1/125 (35 mm), 1/60 (55 mm)."
+film_cameras:001059,Yashica Twintec AF,shutter_type,1/50–1/500 s.
+film_cameras:001060,Yashica AW-mini,shutter_type,1/120–1/600 s. Self-timer built-in.
+film_cameras:001063,Konica Pocket 400,shutter_type,4 – 1/450 s.
+film_cameras:001064,Konica MR.70 LX,shutter_type,1/8 – 1/250 s. Electronic self timer.
+film_cameras:001066,Konica MR.640,shutter_type,1/x – 1/xx s. Electronic self timer.
+film_cameras:001068,Konica MT-7,shutter_type,Fixed shutter speed of 1/125s.
+film_cameras:001069,Konica MT-9,shutter_type,1/10–1/500 s.
+film_cameras:001070,Cosina CX5,shutter_type,"Programmed electronic shutter, 1/30–1/500 s."
+film_cameras:001074,Chinon Splash AF,shutter_type,"Programmed electronic shutter, 1/90–1/410 s."
+film_cameras:001075,Chinon 35FA Super,shutter_type,"Programmed electronic shutter, electronic self timer."
+film_cameras:001079,Minolta FS-E,metering,"EV 10–16,2 with ISO 100 film."
+film_cameras:001085,Minolta Riva 100 AF,shutter_type,1/30 or 1/125 s.
+film_cameras:001086,Minolta AF 101R,shutter_type,1/125 s.
+film_cameras:001087,Minolta F20R,shutter_type,1/125 s.
+film_cameras:001090,Fujifilm Auto-8,shutter_type,"Programmed electronic, 1/40–1/500 s, self-timer."
+film_cameras:001092,Olympus AFL-T,shutter_type,1/30–1/500 s. Electronic self-timer.
+film_cameras:005124,Selby Musashi TW,shutter_type,1/9–1/200 s.
+film_cameras:001100,Canon Snappy Q,shutter_type,Mechanical shutter with single speed (1/70 sec.). Built-in mechanical self-timer.
+film_cameras:005126,Cullmann Mauritius,metering,Underexposure warning by red LED; 3 diaphragm settings
+film_cameras:001115,"somebody, who? Edixa Tecno",shutter_type,Speed 1/60 sec.
+film_cameras:001123,Vivitar TEC 155,exposure_modes,"Automatic, Daylight / Fill Flash, Non-flash, Automatic B"
+film_cameras:001124,Vivitar 742 XL Point 'N Shoot,shutter_type,1/800 to 5 seconds
+film_cameras:001128,Vivitar MV360,shutter_type,1/400 - 1/50
+film_cameras:001129,Samoca Winderflash EES,year_start,1980 approx
+film_cameras:001129,Samoca Winderflash EES,shutter_type,-.
+film_cameras:001141,Olympus Trip 100R,shutter_type,1/125 only.
+film_cameras:001156,Minox AF,shutter_type,1/30~1/500 s.
+film_cameras:001156,Minox AF,metering,"EV 8~16 with ISO 100 film. If required shutter speed is below 1/30 s, the shutter is locked until the flash is mounted."
+film_cameras:001162,Kodak Star 1075z,shutter_type,1/40–1/500 s. Electronic self-timer.
+film_cameras:001185,Eho-Altissa Altuca,shutter_type,Everset shutter of unknown origin. Speeds B-25-50-100
+film_cameras:001200,Goko MacromaX AZS 1150 AF,shutter_type,Programmed electronic shutter
+film_cameras:001211,Canon Sure Shot Z90W,shutter_type,"Programmed, 2–1/640 s."
+film_cameras:001222,Ricoh Myport Zoom mini,shutter_type,"1 sec. (super-night mode), 1/4 -1/300 sec. (normal mode)"
+film_cameras:001223,Agfa Agfamatic 508 sensor,shutter_type,single speed
+film_cameras:001225,Ricoh Shotmaster Tru-zoom,shutter_type,1 - 1/400 sec.
+film_cameras:001256,Nikon F90 (N90),metering,3D eight-segment matrix with D-type lens
+film_cameras:001257,Hanimex 35 Auto-EE,shutter_type,citizen-PE
+film_cameras:001274,Canon Sure Shot Caption Zoom,shutter_type,"Electromagnetic programmed shutter and aperture. In auto mode and flash-on mode: EV 9.25 (f/3.8 at 1/40 sec.) – EV 17 (f/22 at 1/300 sec.) at 38mm, and EV 11 (f/5.6 at 1/60 sec.) at 60mm. In flash-off mode: EV 2.85 (f/3.8 at 2 sec.) – EV 17 (f/22 at 1/300 sec.) at 38mm, and EV 4 (f/5.6 at 2 sec.) – EV 18.4 (f/34 at 1/300 sec.) at 60mm. Built-in electronic self-timer."
+film_cameras:001279,Ernemann Bob,shutter_type,Bob-Sektor
+film_cameras:001279,Ernemann Bob,focus,"by sliding bed, without gears"
+film_cameras:001284,Ernemann Bobette I,film_format,18x24mm (on un-perforated roll film)
+film_cameras:001286,Ernemann Erni,shutter_type,T&I
+film_cameras:001288,Ernemann Erni Stereo,shutter_type,T&I
+film_cameras:001289,Leica Minilux,metering,center-weighted
+film_cameras:001291,Ernemann Heag II,lens,Ernemann ?
+film_cameras:001291,Ernemann Heag II,shutter_type,"Le XXme Siècle (everset type, French product?)"
+film_cameras:001299,Ernemann Heag XVI,film_format,9x12cm on roll-film and plate
+film_cameras:001301,Ernemann Liliput,film_format,"4.5x6, 6.5x9 cm for plates or film packs"
+film_cameras:001303,Ernemann Liliput Stereo,shutter_type,T&I
+film_cameras:001305,Ernemann Miniatur-Ernoflex,focus,lever at the lens: 3.6 feet to infinity
+film_cameras:001308,Ernemann Unette,shutter_type,"Time, Bulb and Instant mode (Z, S and M)"
+film_cameras:001338,Exa 1a,shutter_type,"Special construction (bread-box-alike) mounted below the mirror. Speeds: 1/30, 1/60, 1/125 and 1/175 sec."
+film_cameras:001339,Agilux Agiflash,lens,Agilux
+film_cameras:001347,Ricoh Myport Zoom 320P,shutter_type,"Programmed, 1 sec.(Super-night mode), 1/3 - 1/300 sec.(Normal mode)"
+film_cameras:001348,Exa 1b,shutter_type,"Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited to 1/175; half-depression of the shutter release allows a depth of field preview."
+film_cameras:001348,Exa 1b,focus,"simple matte glass screen,"
+film_cameras:001349,Ricoh Myport Dual mini,shutter_type,"Programmed, 1/3 - 1/350 sec."
+film_cameras:001354,Ricoh RZ-750,shutter_type,3 - 1/500 sec.
+film_cameras:001355,Ricoh RZ-800,shutter_type,"Programmed, 1 sec. - 1/400 sec."
+film_cameras:001356,Ricoh RZ-700,shutter_type,1/30 - 1/800 sec.
+film_cameras:001358,Ricoh S-30,shutter_type,"mechanical, 1/125 sec. (fixed speed)"
+film_cameras:001358,Ricoh S-30,metering,"F8 (ISO 100 / 200), F16 (ISO 400), F22 (ISO 1000)"
+film_cameras:001359,Ricoh AF-66,metering,Programmed-auto
+film_cameras:001361,Ricoh Myport Zoom 90,shutter_type,1 - 1/400 sec.
+film_cameras:001368,Ricoh Myport Super Zoom,shutter_type,"Programmed, 1 sec.(super-night mode) 1/2 - 1/400 sec.(normal mode)"
+film_cameras:001371,Ricoh Myport 330 Super,shutter_type,2 sec. - 1/330 sec.
+film_cameras:001373,Ricoh Myport 310SF,shutter_type,"1 sec. (Super-night mode), 1/2 sec. - 1/400 sec. (Normal mode)"
+film_cameras:001378,Ricoh RZ-600,shutter_type,1/4 -1/300 sec.
+film_cameras:001379,Ricoh RZ-780,shutter_type,"Programmed, 1 sec. - 1/400 sec."
+film_cameras:001380,Ricoh FF-70,shutter_type,"Programmed, 2 sec. - 1/500 sec."
+film_cameras:001385,Ricoh LX-25,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001386,Ricoh LX-33sW,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001387,Ricoh LX-33W,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001388,Ricoh LX-55W,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001390,Ricoh AF-77,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001391,Ricoh AF-77S,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001397,Ricoh RW-1,shutter_type,1/50 sec. and 1/100 sec.
+film_cameras:001398,Ricoh L-20,shutter_type,"mechanical, 1/125s (fixed speed)"
+film_cameras:001398,Ricoh L-20,metering,fixed exposure
+film_cameras:001401,Ricoh FF-300D,shutter_type,"programmed, 2 ~ 1/500 sec."
+film_cameras:001405,Ricoh AF-45,shutter_type,"Programmed, 1/30 ~ 1/500 sec."
+film_cameras:001408,Ricoh AF-60,shutter_type,"Programmed, 1/30 ~ 1/500 sec."
+film_cameras:001409,Ricoh AF-100,shutter_type,"Programmed, 1/30 ~ 1/500 sec."
+film_cameras:001411,Ricoh XF-30 Super,shutter_type,"programmed, 1/30 ~ 1/500 sec."
+film_cameras:001412,Ricoh Auto 35 Date,shutter_type,"mechanical, 1/125s (fixed speed)"
+film_cameras:001413,Ricoh YF-20X,shutter_type,"mechanical, 1/125 sec. (fixed-speed)"
+film_cameras:001413,Ricoh YF-20X,metering,fixed exposure
+film_cameras:001414,Ricoh LX-10,metering,programmed auto
+film_cameras:001415,Ricoh AF-10,metering,programmed auto
+film_cameras:001416,Ricoh YF-20N,shutter_type,"mechanical, 1/125 sec. (fixed speed)"
+film_cameras:001416,Ricoh YF-20N,metering,fixed exposure
+film_cameras:001417,Ricoh YF20-E,shutter_type,"mechanical, 1/125 sec. (fixed speed)"
+film_cameras:001417,Ricoh YF20-E,metering,fixed exposure
+film_cameras:001418,Ricoh YF-28,metering,fixed exposure
+film_cameras:001419,Ricoh YF-10,shutter_type,fixed speed
+film_cameras:001419,Ricoh YF-10,metering,fixed exposure
+film_cameras:001425,Kyocera P-mini,shutter_type,1/60 sec. and 1/125 sec. (two speeds)
+film_cameras:001426,Kyocera P. mini 2,shutter_type,"Programmed, 1/60 sec. ~ 1/200 sec."
+film_cameras:001427,Kyocera P. mini AF,shutter_type,"Programmed, 1/60 sec. ~ 1/200 sec."
+film_cameras:001467,Minolta Riva Zoom 90EX,shutter_speeds,1 sec. to ???
+film_cameras:001468,Revere 3M Automatic 1064,shutter_type,speeds 1/45 sec (flash) or 1/90 sec.
+film_cameras:001496,Shinano Camera Co. Ltd Lacon,shutter_type,rim-set Shinano shutter with flash synchronization
+film_cameras:001503,KMZ FT-2,shutter_type,"1/100, 1/200, 1/400s"
+film_cameras:001558,Canon Sure Shot 76 Zoom Date,shutter_type,Combination aperture and program electromagnetically driven shutter
+film_cameras:001598,Finetta 88,lens,exchangable Saraber Finetar F=48mm f=2.8
+film_cameras:001614,Olympus Superzoom 80S,shutter_type,2sec-1/125
+film_cameras:001625,Konica Manbow,shutter_type,"Mechanical shutter, 1/125 sec. (fixed speed)"
+film_cameras:001625,Konica Manbow,metering,Fixed exposure; an aperture is selected according to the film speed.
+film_cameras:001627,Konica Manbow Woo,shutter_type,1/125 sec. (fixed speed)
+film_cameras:001627,Konica Manbow Woo,metering,Fixed exposure; an aperture is selected according to the film speed.
+film_cameras:001632,Canon Sure Shot Owl PF,shutter_type,1/45-1/160 sec
+film_cameras:004657,Tokyo Optical Company Fodorflex,shutter_type,"unknown 1 to 1/300, M- and X- Flash synchronisation + self-timer."
+film_cameras:001731,Canon 110ED 20,shutter_type,Canon-made electronically-controlled stepless shutter from 2 sec. to 1/1000 sec. Mechanical shutter speed at 1/125 sec. X-sync with hot shoe. With ISO 80 film: EV 1 (f/2 at 2 sec.) – 16 (f/16 at 1/1000 sec.). Film speeds of ISO 80 and 400 set automatically.
+film_cameras:001741,Agfa Selectronic Sensor,shutter_type,"Agfa Paratronic, with speeds of 15 sec. (yes that's correct - 15 whole sec!) to 1/500 continuously variable. Mechanical timer for 10 sec delay."
+film_cameras:001782,Fujifilm DL-200,shutter_type,"Programmed electronic, 1/40–1/400 s, self-timer."
+film_cameras:001783,Fujifilm DL-50,shutter_type,Mechanical shutter coupled to film ISO setting; e.g. locked to 1/100 s with ISO 100 film.
+film_cameras:001812,Kodak Advantix 2100 Auto,shutter_type,"2 step electronic: daylight 1/125, flash 1/70"
+film_cameras:001852,Fujifilm HD-M,shutter_type,1/8 to 1/500.
+film_cameras:001876,Lomography Konstruktor,lens,Bayonet mount 50mm
+film_cameras:001876,Lomography Konstruktor,shutter_type,1/80s or bulb with multiple exposure capabilty
+film_cameras:001876,Lomography Konstruktor,focus,0.5m to infinity
+film_cameras:001928,Fujifilm 35 Auto M,shutter_type,1/30-1/500 plus B
+film_cameras:001940,Zeiss Ikon Baldur,lens,size 4.5x6 cm models have a Goerz Frontar 11/9cm lens. size 6x9 cm models have a Goerz Frontar 11/11.5cm lens.
+film_cameras:001940,Zeiss Ikon Baldur,shutter_type,"Zeiss Ikon ""Spezial"". T and I (1/25sec)."
+film_cameras:001945,Bell and Howell 250,shutter_type,Mechanical
+film_cameras:004683,BelOMO Elikon 35CM,shutter_type,1/8 sec. – 1/500 sec.
+film_cameras:001947,Fujifilm Auto-7,shutter_type,"Programmed electronic, 1/8–1/500 s, self-timer."
+film_cameras:001954,Fujifilm DL-20,shutter_type,"1/100 (ISO 100), 1/300 (ISO 400)."
+film_cameras:001963,Canon Sure Shot Zoom,shutter_type,"Electronic programmed shutter with stepping motor. In auto mode: EV 8.5 (f/3.5 at 1/30 sec.) – EV 17 (f/22 at 1/250 sec.) at 35mm, and EV 11 (f/6.7 at 1/50 sec.) – EV 17 (f/27 at 1/180 sec.) at 70mm. In slow-speed sync mode: EV 6 (f/3.5 at 1/5 sec.) – EV 17 (f/22 at 1/250 sec.) at 35mm, and EV 6 (f/6.7 at 1/2 sec.) – EV 17 (f/27 at 1/180 sec.) at 70mm. Built-in electronic self-timer."
+film_cameras:001964,Canon Autoboy Luna XL,shutter_type,"Electromagnetic programmed shutter and aperture. Metering range (ISO 100): Auto and Flash ON modes; EV9 (1/30, f/5.6)- EV17.5 (1/590, f/16) at 28mm, EV12 (1/60, f/7.8)- EV20 (1/590, f/32) at 70mm. Slow-sync and Flash OFF modes; EV4 (2 sec., f/5.6)- EV17.5 (1/590, f/16) at 28mm, EV5 (2 sec., f/7.8)- EV20 (1/590, f/32) at 70mm. Night mode uses 2 sec. (the slowest speed). Built-in self-timer."
+film_cameras:001997,Prinsen Box,shutter_type,Everset shutter. Single Speed ? sec. and T.
+film_cameras:002022,Rollei Rolleiflex 6006,lens,Bayonet mount Rollei (license built Carl Zeiss) Planar 2.8/80mm with HFT coating.
+film_cameras:002024,Hanimex 35SE,shutter_type,Fixed 1/125 sec
+film_cameras:002025,Hanimex 35S,shutter_type,Fixed at 1/125
+film_cameras:002036,Rollei Rolleiflex 6008 Professional,lens,Bayonet mount Rollei (license built Carl Zeiss) Planar 2.8/80mm with HFT coating.
+film_cameras:002040,Carena SX-300,metering,integral center-weighted measuring with photo diode
+film_cameras:002080,Rollei Rolleiflex 6003,lens,Bayonet mount Rollei (license built Carl Zeiss) Planar 2.8/80mm with HFT coating.
+film_cameras:002094,Revue DF-300,metering,integral center-weighted measuring with photo diode
+film_cameras:002177,Fujifilm Instax 100,shutter_type,Programmed electronic shutter 1/64 ~ 1/200
+film_cameras:002177,Fujifilm Instax 100,focus,Motor-driven 2-range switching (0.9 to 3m/3m to infinity)
+film_cameras:002181,Fujifilm Instax 200 series,shutter_type,Programmed electronic shutter 1/64 ~ 1/200
+film_cameras:002205,Fujifilm Instax Mini 7,focus,0.6m ~ Infinity
+film_cameras:002225,Fujifilm Tiara Zoom,shutter_type,speeds 1-1/500 sec.
+film_cameras:005230,Snap Sights Underwater Camera,shutter_speeds,"Fixed at ?, Mechanical style"
+film_cameras:002264,Fujifilm nexia Q1,shutter_type,"controlled electronically, just one speed: 1/100 sec."
+film_cameras:002293,Diana Instant Square,shutter_type,N (1/60) or B (Bulb)
+film_cameras:002374,Seagull Carena DF-300,metering,Integral center-weighted measuring with photo diode
+film_cameras:002376,GAF Anscomatic 726,shutter_type,"1/30 - 1/500, B"
+film_cameras:002385,GAF Memo 35 EE,shutter_type,"Programmed 1/30-1/650s, B, self-timer, and fixed 1/25s for flash"
+film_cameras:002410,Certo Certo-matic,shutter_type,"shutter with B and ""Auto"" (c.1/60 sec)."
+film_cameras:002459,Kodak Advantix Preview,shutter_type,1/2-1/400
+film_cameras:002479,Halina 1950TL,metering,fully automatic
+film_cameras:002480,Chinon 35FX-III,shutter_type,"Single speed (not marked), looks like about 1/100 second."
+film_cameras:002510,Ricoh XF-80,shutter_type,"programmed, 1/4 ~ 1/500 sec."
+film_cameras:002511,Kapol Filma (Kapol),shutter_type,"Everset, 1/50(some say 1/30) B, T"
+film_cameras:004797,R. F. Hunter Gilbert,shutter_type,"two speeds, with flash sync"
+film_cameras:002600,Gnome Pixie,shutter_speeds,Instant or Bulb
+film_cameras:002623,Goko Macromax FR 2200,shutter_type,"Speeds 1/90 to 1/300 sec., controlled electronically"
+film_cameras:002660,Aires 35-IIIC,lens,Aires P Coral 1:2.4 f=4.5cm
+film_cameras:002661,Pentax Z-1p,shutter_type,"Electronic; shutter speeds from 30s to 1/8000, B"
+film_cameras:002706,Rollei 35AF,shutter_type,Speeds 1 to 1/500 sec. and LT mode up to 60s.
+film_cameras:005339,Dr. Eulitz Grisette,shutter_type,speeds Instant & Time
+film_cameras:002722,Komamura Horseman 842 Convertible,shutter_type,"1 sec to 1/S00th, B, M/X Sync."
+film_cameras:002740,Haking ZM82AE,shutter_type,program-controlled electronic shutter with speeds 1.5 sec. - 1/250 sec.
+film_cameras:002760,Ricoh 126C Deluxe,shutter_type,1/30 to 1/500 plus B
+film_cameras:002763,Halina F700,shutter_type,programmed shutter
+film_cameras:002763,Halina F700,metering,fully automatic
+film_cameras:002768,Halina Paulette,shutter_type,Four speed 1/30th to 1/250th +B.
+film_cameras:002777,Halina Simplette,shutter_type,fixed speed
+film_cameras:002798,Hanimex 35ee Micro,shutter_type,"""aperture priority"" electronic shutter 1/15-1/500 sec (see notes below)"
+film_cameras:002818,Steiner Hunter 35,shutter_type,speeds 1/25-1/200 + B with flash sync.
+film_cameras:005388,Camera-Werk Adolf Gerlach Ideal Color 35,shutter_type,"speeds 1/25, 1/50, 1/100 and B, maybe everset, but locked after exposure, flash synchronized"
+film_cameras:002830,Ihagee Venus,shutter_type,"Ibsor, speeds 1 sec. to 1/125 sec."
+film_cameras:002837,Ilford Envoy,shutter_speeds,I or T
+film_cameras:004842,J. Lizars Challenge,lens,"original lens might have been a Ross Rapid Symmetrical f8/5"" or a Ross Homocentric f6.3/5"""
+film_cameras:004842,J. Lizars Challenge,shutter_type,original shutter was of Bausch & Lomb
+film_cameras:002885,Kodak Jiffy Kodak Six-20,shutter_speeds,I or T
+film_cameras:002887,Agfa Isolette,lens,"8.5 cm f/6.3 Igestar, f/4.5 Agnar, f/4.5 Apotar or f/4.5 Solinar."
+film_cameras:002911,Kershaw-Soho Kershaw 110,shutter_speeds,I or B
+film_cameras:002949,Kodak 66,shutter_type,"Velio five-speed (1/200, 1/100, 1/50, 1/25, 1/10 + B) or three-speed (1/200, 1/75, 1/25 + B)."
+film_cameras:002951,Kodak Advantix 4100ix zoom,shutter_type,programmed electronic shutter with speeds 1/6 - 1/270 sec.
+film_cameras:002952,Kodak Advantix C370,shutter_type,1/70 to 1/200 second
+film_cameras:002953,Kodak Advantix C400,shutter_type,speeds 1/90 - 1/250 sec.
+film_cameras:002957,Kodak Advantix T500,shutter_type,"Programmed, full-aperture shutter 1/4-1/500 seconds"
+film_cameras:002978,Kodak Brownie No. 0,frame_size,"1 5/8 X 2 1/2"""
+film_cameras:002979,Kodak Brownie Reflex,shutter_type,I (instantaneous) 1/30 sec and B (bulb mode)
+film_cameras:002988,Kodak Brownie Super 27,shutter_type,Fixed 1/80th or 1/40th
+film_cameras:002989,Kodak Brownie Twin 20,shutter_type,"single-speed, with flash synch."
+film_cameras:002994,Kodak EK160-EF (Colorburst 250),film_format,"Kodak PR-10, Instant film"
+film_cameras:002996,Kodak Duex,shutter_type,I (instant) and B (bulb) mode
+film_cameras:003014,Kodak Instamatic 32,shutter_type,1/40 & 1/80 sec.
+film_cameras:003017,Kodak Instamatic 50,shutter_type,switchable to speeds 1/40 (flash synch.) and 1/90 sec.
+film_cameras:003019,Kodak Instamatic 56X,shutter_type,single speed 1/50 sec.
+film_cameras:003020,Kodak Instamatic 700,shutter_type,"4 speed, 1/30-1/250s - set by dial on the front"
+film_cameras:003022,Kodak Instamatic 814,shutter_type,"1/60 - 1/250, B (bulb)"
+film_cameras:003024,Kodak Instamatic S-10,shutter_type,1/40 and 1/125 sec.
+film_cameras:003027,Kodak Instamatic X-30,shutter_type,Photo-electronically controlled shutter with speeds 10 to 1/125 sec.
+film_cameras:003039,Kodak No. 1,film_format,"paper rolls - changed by manufacturer, alternate loading with transparent film (only Kodak No. 1)"
+film_cameras:003040,Kodak No. 2A Folding Autographic Brownie,shutter_type,"Kodex no.1 shutter with speeds B, T, 1/25, 1/50, or Kodak Ball Bearing shutter with an additional 1/100s speed for ""moving object"", as the shutter says."
+film_cameras:003041,Kodak No. 2A Folding Pocket Brownie,shutter_type,"Brownie Automatic, modes I, B and T"
+film_cameras:003043,Kodak No. 2 Folding Autographic Brownie,shutter_type,"Kodex Ball Bearing Shutter with speeds B, T, 1/25 sec., and 1/50 sec."
+film_cameras:003046,Kodak No. 3A Folding Brownie Model A,shutter_type,"F.P.K. Automatic (earlier model), or Brownie Ball Bearing Shutter with modes B and T plus speeds 1/25 sec., 1/50 sec. and 1/100 sec."
+film_cameras:003048,Kodak Pocket Instamatic 10,shutter_type,"two speeds, one for normal conditions, one flash-synchronized"
+film_cameras:003049,Kodak Pocket Instamatic 300,shutter_type,one-speed
+film_cameras:003050,Kodak Pocket Instamatic 40,shutter_type,"CdS controlled with speeds 10 sec. to 1/225 sec., flash-synchronized for speeds 1/30 to 1/225 sec."
+film_cameras:003052,Kodak Pony 828/135,shutter_type,Kodak Flash 200 1/8 - 1/200
+film_cameras:003077,Kodak Signet 30,shutter_type,Kodak Synchro 250 - Automatically cocked when film is advanced. Double-Exposure prevention.;
+film_cameras:003098,Kodak vest pocket autographic,lens,Single element meniscus or rapid rectilinear {{brl}}
+film_cameras:003098,Kodak vest pocket autographic,shutter_type,"Kodak ball bearing shutter. Speeds 1/25th, 1/50th, B and T{{brl}}"
+film_cameras:003105,Konica AiBORG,shutter_type,Electronic programmed shutter 6.4–1/500th sec
+film_cameras:003119,Konica C35 EF3,shutter_type,"Programmed, 1/60 - 1/500 sec."
+film_cameras:003121,Konica C35 MF and C35 MF-D,shutter_type,"programmed shutter, three shutter speeds: 1/60, 1/125 and 1/250 s"
+film_cameras:003141,Konica MR.70,shutter_type,1/25 – 1/250 s. Electronic self timer.
+film_cameras:003156,Konica Z-up 80,shutter_type,"Programmed, 1 ~ 1/500 sec."
+film_cameras:005406,Pawelscy Brothers Korona (box),shutter_type,1/50s + B
+film_cameras:003182,Argus A,shutter_type,Pre-war Ilex Precise
+film_cameras:003183,LOMO LC-A,shutter_type,electromechanical program shutter
+film_cameras:003320,"Artima (The Arti-Six, London) Arti-Six",shutter_type,"speeds 1/25, 1/50 and 1/100 sec. plus T"
+film_cameras:003322,King Mastra V35,shutter_type,"Vero - Bulb, 1/25, 1/50, 1/100 and 1/200th."
+film_cameras:003333,Universal Mercury,film_format,"Univex #200-series film, for 65 half-frame (18×24mm) exposures"
+film_cameras:003350,Minolta 24 Rapid,shutter_type,"speeds B, 1/30,1/60,1/125, 1/250s"
+film_cameras:003367,Minolta Autopak 400-X,shutter_type,"speeds 1/45 sec. or 1/90 sec. ,"
+film_cameras:003368,Minolta Autopak 500,shutter_type,speed 1/90 sec. in normal or 1/40 sec. in flash mode
+film_cameras:003372,Minolta Autopak 800,shutter_type,"speeds 1/45 sec. in flash mode, otherwise 1/90 sec."
+film_cameras:003373,Minolta Autowide,shutter_type,"Optiper Citizen MVL , B, 1 to 1/500 sec with M and X flash sync. Thumb wheel self-timer."
+film_cameras:003382,Minolta Dynax 505si Super,shutter_type,"electronically controlled, 30 sec to 1/4000 sec. with bulb"
+film_cameras:003386,Minolta ER,focus,90cm to inf.
+film_cameras:003397,Minolta Hi-Matic E,shutter_type,"Seiko shutter controlled by meter: EV0.5=F1.7 & 2sec., EV17=F11 & 1/1000 sec."
+film_cameras:003405,Minolta Minoltina-P,shutter_type,"speeds 1/30 (with max. aperture) up to 1/250 sec. (at f-stop 22), flash synchronized speed 1/30 sec. with apertures f2.8 to f16"
+film_cameras:003407,Minolta Pocket Autopak 200,shutter_type,Mechanical: 1/125 for continuous light electronic flash; 1/50 for bulbs
+film_cameras:003409,Minolta Pocket Autopak 270,shutter_type,"Electronic, stepless speeds from 1/330 to 10 secs."
+film_cameras:003409,Minolta Pocket Autopak 270,metering,Programmed with two automatic changed apertures f3.5 and f8
+film_cameras:003411,Minolta Pocket Autopak 450E,shutter_type,speed 1/200 sec.
+film_cameras:003413,Minolta Pocket Autopak 50,shutter_type,"speed 1/40 sec. in flash mode, or between 10 sec. and 1/330 sec. in CdS-meter controlled mode"
+film_cameras:003414,Minolta Pocket Autopak 70,shutter_type,"speed 1/40 sec. in flash mode, or between 10 sec. and 1/330 sec. combined with apertures f3.5 or 8 in CdS-meter controlled mode"
+film_cameras:003440,Minolta Vectis 300,shutter_type,speeds 8 sec. to 1/500 sec.
+film_cameras:003449,Minolta Vectis UC,shutter_type,electronically controlled shutter with speeds 1/4 to 1/350 sec.
+film_cameras:003449,Minolta Vectis UC,metering,center-weighted
+film_cameras:003480,Minox 35 ML,metering,auto or aperture priority
+film_cameras:003498,Montanus Montana,lens,"Deltamon Anastigmat 45mm / f3.5 (possibly made by Enna or Staeble, who made lenses for Montanus)"
+film_cameras:003514,Neoca 35 IV S,shutter_type,9-speed + B Citizen MV
+film_cameras:003516,Zeiss Ikon Nettar,lens,Nettar 1:7.7/10.5cm
+film_cameras:003550,Nikon FA,shutter_type,Electronically controlled high-speed shutter
+film_cameras:003552,Nikon FE2,shutter_type,Electronically controlled shutter; maximum speed 1/4000 s
+film_cameras:003557,Nikon FM2,metering,60/40 center-weighted
+film_cameras:003571,Nikon F80 (N80),shutter_type,"electronic, 1/4000 to 30 sec in 1/2 EV."
+film_cameras:003611,King Olymatic IA,shutter_type,Rectormatic 350
+film_cameras:003655,Olympus Newpic XB AF,shutter_type,1/250 - 1/3s
+film_cameras:003659,Olympus OM-10/20/30/40,shutter_speeds,"B, 1–1000"
+film_cameras:003691,Olympus i Zoom 75,shutter_type,"Programmed electronic, speeds: 4-1/500 sec."
+film_cameras:003735,Dr. Rodehüser Panta,lens,"Enna Ennar 1:4,5 f-7,5cm, or Steiner-Bayreuth Steinar 1:4,5/75, focusable by turning front elements group"
+film_cameras:003769,Pentax Espio Mini/UC-1,shutter_type,"Programmed AE electric shutter with speed aprox. 1/400s -2 sec. Bulb: 1/2 sec. - 5 min, Electromagnetic release."
+film_cameras:003800,Pentax Z-10/PZ-10,shutter_type,"Electronic; shutter speeds from 30s to 1/2000, B"
+film_cameras:003802,Pentax Zoom 105 Super,shutter_type,automatic 1/250s-1/3 sec. Bulb: 1/2-60 sec.
+film_cameras:003803,Pentax Zoom 60,shutter_type,1/30 to 1/250
+film_cameras:003816,Petri 7s II,shutter_type,"Petri XV shutter with speeds: B up to 1/500. Self cocking, X synchronization, built-in self-timer, release pressure 200g."
+film_cameras:003820,Petri E.Bn,shutter_type,Petri Carperu MXV; 10-speed (1 - 1/500 second) + 'B'
+film_cameras:003841,Kodak Pocket Kodak No. 1 series II,shutter_type,Diomatic No. 0 - Manually cocked
+film_cameras:003845,Minolta Pocket autopak 230,shutter_type,Mechanical: 1/125 for continuous light electronic flash; 1/50 for bulbs
+film_cameras:003859,Polaroid SX-70,metering,automatic; lighten/darken control
+film_cameras:003890,Praktica Zoom 801 AF,shutter_type,speeds 1/3-1/250 sec.
+film_cameras:003895,KW Praktiflex,focus,via condenser type ground-glass focusing screen
+film_cameras:003932,King Regula Diplomat C,shutter_type,"Single speed, probably in the 1/30-50th range"
+film_cameras:003939,King Regula Picca,shutter_type,Rectormat
+film_cameras:003940,King Regula Sprint,shutter_type,"Rectamat, programmed speeds"
+film_cameras:003957,Ricoh 35,shutter_type,"Riken, Speeds 1/10 - 1/200 sec + B"
+film_cameras:003958,Ricoh 35R,shutter_type,"Program mode ( 1/4 to 1/500 ), aperture priority mode (1 to 1/250 sec.)"
+film_cameras:003959,Ricoh 35S,shutter_type,"Riken, Speeds 1/10 - 1/300 sec + B"
+film_cameras:003960,Ricoh 35ZF,shutter_type,"Ricoh, Speeds 1/8 - 1/500 sec + B"
+film_cameras:003966,Ricoh 500GX,shutter_type,Speeds 1/8 - 1/500 sec.
+film_cameras:003967,Ricoh 500 G,shutter_type,"Mechanical, B, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500"
+film_cameras:003968,Ricoh 500 ME,shutter_type,Ricoh 1/8 to 1/500s
+film_cameras:003971,Ricoh AF-50,shutter_type,"Programmed, 1/30 ~ 1/500 sec."
+film_cameras:003978,Ricoh Diacord G,shutter_type,"Citizen MV or MXV, Speeds 1/10 - 1/400 sec + B"
+film_cameras:003980,Ricoh FF-1,shutter_type,Electronic shutter 2 - 1/500
+film_cameras:003982,Ricoh GR1,metering,"Aperture Priority Mode, Program Mode"
+film_cameras:003984,Ricoh GR21,metering,Aperture Priority Mode
+film_cameras:003987,Ricoh KR-10 Super,shutter_type,Electronically controlled. 16sec - 1/1000sec +B.
+film_cameras:003988,Ricoh Mirai,shutter_type,32sec - 1/2000sec
+film_cameras:003989,Ricoh Mirai 105,shutter_type,Electronic shutter 1 - 1 / 500 with self-timer
+film_cameras:003990,Ricoh Mirai Zoom 3,shutter_type,Electronic shutter 1/4-1/500s with self-timer.
+film_cameras:003991,Ricoh R1,shutter_type,2s – 1/500 with self-timer
+film_cameras:004001,Ricoh Super Shot,shutter_type,Seiko ES600 - 1/15-1/500 with self timer
+film_cameras:004001,Ricoh Super Shot,metering,Program AE EV5.6 - 17
+film_cameras:004004,Ricoh my-1,shutter_type,1/60 and 1/125 sec. Self timer.
+film_cameras:004008,Ricoh Ricohflex Dia,shutter_type,"Citizen MVX, Speeds 1 - 1/400 sec + B"
+film_cameras:004011,Ricoh Ricohflex New Dia,shutter_type,"Citizen MVX, Speeds 1 - 1/400 sec + B"
+film_cameras:004013,Ricoh Ricohmatic 110X Pocket Deluxe,shutter_type,Speeds 1/30 - 1/250 sec
+film_cameras:004016,Ricoh Ricolet,shutter_type,"Riken, Speeds 1/25 - 1/100 sec + B"
+film_cameras:004017,Ricoh Ricolet S,shutter_type,"Riken, Speeds 1/10 - 1/200 sec + B"
+film_cameras:004035,Rollei Prego Zoom,shutter_type,Electronic between 1/3 and 1/400s and Bulb
+film_cameras:004044,Rollei Rolleiflex SL26,lens,"Zeiss Tessar 2.8, 40mm (supplied)"
+film_cameras:004057,Royal Camera Royal 35,lens,screw mount
+film_cameras:004059,Taiyōdō Kōki Beautyflex,shutter_type,NKS-FB MX 1 to 1/300
+film_cameras:004077,Beier Beirette,shutter_type,"Junior-II, Modell II or Priomat with speeds 30, 60, 125, and B"
+film_cameras:004091,Balda Belca Beltica,shutter_type,"Balda-Dresden, or Cludor, speeds 1 - 1/200 sec., aperture downto 1:16"
+film_cameras:004100,Seagull DF-300,metering,integral center-weighted measuring with photo diode
+film_cameras:004120,Balda Belplasca,shutter_type,double shutter with speeds from 1 sec. up to 1/200 sec.
+film_cameras:004147,Bencini Koroll,shutter_type,Single-speed & B
+film_cameras:004163,GOMZ Smena-2,shutter_type,"flash synchronized, speeds 1/10 sec. to 1/200 sec. and B"
+film_cameras:004172,Soho Myna,lens,"fixed aperture (~F/16), focus down to 5ft"
+film_cameras:004172,Soho Myna,shutter_type,single speed (1/40th) + T
+film_cameras:004173,Soho Pilot,lens,"fixed aperture, fixed focus"
+film_cameras:004173,Soho Pilot,shutter_type,single speed + T
+film_cameras:004201,"Dacora Subita, Dacora 120 and Dacora I",shutter_type,"Singlo shutter with speeds 1/25 sec., 1/75 sec, and B, and with flash connector. Cocked on the long shifting travel of the release lever"
+film_cameras:004219,Linhof Super Technika III and IV,lens,Lensboard upon which a lens in shutter would mount.
+film_cameras:004234,Taron Auto EE,shutter_type,"Citzen MVE shutter, speeds are B, 1, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500 sec."
+film_cameras:004240,Bilora Bella,shutter_type,"B, 1/50, 1/100s"
+film_cameras:005009,"Powershovel Blackbird, fly",shutter_type,1/125 and Bulb
+film_cameras:004272,GOMZ Turist,film_format,6.5×9 plate
+film_cameras:004272,GOMZ Turist,shutter_type,Automat 1/25-1/100 shutter
+film_cameras:004278,Universal Univex Iris,shutter_type,"single speed shutter with modes I(nstant), B(ulb) and T(ime)"
+film_cameras:004281,E. Elliott Ltd. V. P. Twin,shutter_type,Coronet shutter
+film_cameras:004294,Voigtländer Vitessa,lens,"Ultron 50mm f/2.0, six element, bayonet filter mount"
+film_cameras:004328,LOMO Voskhod,shutter_type,1s - 1/250 +B
+film_cameras:004351,Haking Welmy Wide,shutter_type,"B, 25, 50 100, 200; display on front and top"
+film_cameras:004358,Truvox Wembley Sports,shutter_type,"Rondex Rapid, speeds 1/25, 1/50, 1/100 +"
+film_cameras:004359,Certex Werlisa Color,shutter_type,"speeds 1/30, 1/60, 1/125 sec."
+film_cameras:004369,Wittnauer Legionnaire,shutter_type,Vero
+film_cameras:004373,Bilora Box 2b,shutter_type,"Single catch ""sun/without sun"""
+film_cameras:004375,Zeiss Ikon Box Tengor,shutter_type,single speed
+film_cameras:004375,Zeiss Ikon Box Tengor,focus,"switchable: 1m, 3m+, 8m+"
+film_cameras:004397,Yashica Flash-O-Set,shutter_type,fixed 1/60
+film_cameras:004399,Yashica Lynx 1000,lens,fixed
+film_cameras:004403,Yashica MF-3,shutter_type,Mechanical with a fixed speed of 1/125
+film_cameras:004414,Yashica Samurai X4.0,shutter_type,speeds 3 to 1/300 sec.
+film_cameras:004432,Zeiss Ikon Ikomatic,lens,Frontar
+film_cameras:004432,Zeiss Ikon Ikomatic,shutter_type,"speeds 1/30 sec. with flash, 1/60 sec. for daylight"
+film_cameras:004447,Zenit ET,focus,Fresnel matte glass screen
+film_cameras:004460,Zorki 12,shutter_type,1/30th - 1/250th
+film_cameras:004490,Canon (New) Sure Shot/AF35M II/Autoboy 2,shutter_type,Electronically-controlled programmed shutter and aperture. EV 6 (f/2.8 at 1/8 sec.) – 17 (f/16 at 1/500 sec.). Built-in electronic self-timer.
+film_cameras:004491,Canon 110ED,shutter_type,Canon-made electronically-controlled shutter for 8 sec. to 1/500 sec. X-sync with hot shoe. EV 0 (f/2.7 at 8 sec.) – 17 (f/16 at 1/500 sec.)
+film_cameras:004495,Canon A35F,shutter_type,Programmed AE shutter: 1/60 @ f2.8 - 1/320 @ f20
+film_cameras:004496,Canon A35 Datelux,shutter_type,Pario mechanically controlled shutter. EV 9 (f/2.8 at 1/60 sec.) – 17 (f/20 at 1/320 sec.) at ISO 100. Built-in mechanical self-timer.
+film_cameras:004502,Canon Aqua Snappy/AS-6,shutter_type,Electromagnetic programmed shutter and aperture. EV 10 (f/4.5 at 1/40 sec.) – 15 (f/11 at 1/250 sec.). No self-timer.
+film_cameras:004503,Canon Canodate E,shutter_type,"Seiko ESF (electronically controlled), EV 1 (f/2.8 at 4 sec.) – 17 (f/16 at 1/500 sec.), X-sync, hot shoe and German socket for automatic flash. No self-timer."
+film_cameras:004509,Canon Datematic,shutter_type,"Seiko ESF (electronically controlled), EV 1 (f/2.8 at 4 sec.) – 17 (f/16 at 1/500 sec.), X-sync. Built-in self-timer. Hot shoe and German socket for automatic flash."
+film_cameras:004511,Canon Demi EE17,shutter_type,"Seiko-sha. 1/8 – 1/500 sec., B. Built-in self-timer. X-sync."
+film_cameras:004512,Canon Demi S,shutter_type,"Seiko, 1/8 - 1/500s + B"
+film_cameras:004522,Canon EOS 3000N,metering,"EV 2 – 20 (50mm f/1.4, ISO 100)."
